@@ -1,2 +1,2 @@
 
-main test2 file
+main test2 file2
